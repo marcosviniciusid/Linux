@@ -43,6 +43,6 @@ Finalizado.
 
 # Outros tópicos
 
->[Instalando Apache + php + Mysql + phpmyadmin](https://github.com/marcosviniciusid/Instalando-Apache-php-mysql-phpmyadmin/blob/master/README.md)
+>[Instalando Apache + php + Mysql + phpmyadmin](https://github.com/marcosviniciusid/Linux/tree/master/Instalando-Apache-php-mysql-phpmyadmin-linux-master)
 >
->[Recuperar senha do root](https://github.com/marcosviniciusid/Recuperar-senha-de-Root-mysql-phpmyadmin/blob/master/README.md)
+>[Recuperar senha do root](https://github.com/marcosviniciusid/Linux/tree/master/Recuperar-senha-de-Root-mysql-phpmyadmin-master)
