@@ -16,6 +16,6 @@ Após isso, poderá alterar a senha do root na aba de '*Contas de usuários*'.
 
 # Outros tópicos
 
->[Desinstalar Mysql no linux completamente](https://github.com/marcosviniciusid/Desinstalar-Mysql-no-Linux/blob/master/README.md)
+>[Desinstalar Mysql no linux completamente](https://github.com/marcosviniciusid/Linux/tree/master/Desinstalar-Mysql-no-Linux-master)
 >
->[Instalando APACHE + MYSQL/Phpmyadmin via **Terminal**](https://github.com/marcosviniciusid/Instalando-Apache-php-mysql-phpmyadmin/blob/master/README.md)
+>[Instalando APACHE + MYSQL/Phpmyadmin via **Terminal**](https://github.com/marcosviniciusid/Linux/tree/master/Instalando-Apache-php-mysql-phpmyadmin-linux-master)
